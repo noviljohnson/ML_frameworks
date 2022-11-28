@@ -7,6 +7,11 @@ name = "pypi"
 torch = "*"
 torchvision = "*"
 torchaudio = "*"
+sklearn = "*"
+matplotlib = "*"
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
